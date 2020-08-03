@@ -1,7 +1,7 @@
 name: HEXO CI
 on:
   push:
-    branches: [ gh-pages ]
+    branches: [ master ]
 
 jobs:
   build:
